@@ -4,4 +4,8 @@ git commit -m
 git log
 git status
 rm --cache
-git restore 
+git restore
+git log -oneline 0--pretty
+git log --global user.name " name"
+git log --global user.email "email"
+ 
