@@ -7,5 +7,5 @@ rm --cache
 git restore
 git log -oneline 0--pretty
 git log --global user.name " name"
-git log --global user.email "email"
- 
+git log --global user.email "email
+git checkout -b dev 
